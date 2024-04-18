@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Input:
 # p, principal amount
 # t, time period in years
